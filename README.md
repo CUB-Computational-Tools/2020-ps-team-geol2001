@@ -1,6 +1,6 @@
 # Team Problem Set
 
-This is the repository for designing the team problem set. It contains the same binder setup branches and notebook templates as the repo for your individual problem sets and you can use any of them as you see fit. 
+This is the repository for designing the team problem set. It contains the same binder setup branches and notebook templates as the repo for your individual problem sets and you can use any of them as you see fit.
 
 # Designing the problem set
 
@@ -8,15 +8,9 @@ When designing the problem set, be mindful that you are now working together wit
 
 # Testing
 
-Make sure to test your problem set on binder to make sure it will be possible to use in a classroom context. For this, adjust/delete the example links below to fit the language(s) and platforms you are using. Make sure to replace all instances of the word `assignment_group_problem_set` (the name of the template repo) with the name of your own repository.
+Make sure to test your problem set on binder to make sure it will be possible to use in a classroom context. For this, adjust/delete the example links below to fit the language(s) and platforms you are using. Make sure to replace all instances of the word `2020-ps-team-geol2001` (the name of the template repo) with the name of your own repository.
 
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_group_problem_set/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_group_problem_set%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-Py+Jupyter%20Lab-red.svg'/></a>
-
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_group_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_group_problem_set%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-R+RStudio-blue.svg'/></a>
-
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_group_problem_set/binder-R?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_group_problem_set%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-R+Jupyter%20Lab-orange.svg'/></a>
-
-<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/assignment_group_problem_set/binder-R+python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2Fassignment_group_problem_set%26branch%3Dmaster%26urlpath%3Drstudio'><img src='https://img.shields.io/badge/launch%20final-Py+RStudio-purple.svg'/></a>
+<a href='https://mybinder.org/v2/gh/CUB-Computational-Tools/2020-ps-team-geol2001/binder-python?urlpath=git-pull?repo=https%3A%2F%2Fgithub.com%2FCUB-Computational-Tools%2F2020-ps-team-geol2001%26branch%3Dmaster%26urlpath%3Dlab'><img src='https://img.shields.io/badge/launch%20final-Py+Jupyter%20Lab-red.svg'/></a>
 
 # Cleanup
 
